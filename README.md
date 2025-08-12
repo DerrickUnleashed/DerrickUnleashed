@@ -3,7 +3,7 @@ Hi — I'm Derrick 👋
 Dual-degree Computer Science and Engineering Core & Data Science student at 
 <p align="center">
   <a href="https://chennai.vit.ac.in/" target = "_blank"><img src="assets/vit_logo.png" alt="VIT Chennai" height="70" /></a>  and  
-  <a href="https://study.iitm.ac.in/ds/" target = "_blank"><img src="assets/iitm_logo.png" alt="IIT Madras" height="70" /></a>
+  <a href="https://ds.study.iitm.ac.in/student/23F2001426" target = "_blank"><img src="assets/iitm_logo.png" alt="IIT Madras" height="70" /></a>
 </p>
 
 I build production-ready ML systems, computer-vision tools, and full-stack apps.  
@@ -11,8 +11,8 @@ I love turning complex data (images, genomes, finance) into practical pipelines 
 I work on Full-stack & systems with MERN dashboards, WebSocket multiplayer, and scalable tooling.
 
 ## 🏆 Experience
-- <img src="assets/gsoc_logo.png" alt="GSoC" height="40" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
-- <img src="assets/jss_logo.png" alt="JSS" height="40" /> **Biomedical ML Intern 2025** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
+- <a href="https://summerofcode.withgoogle.com/programs/2025/projects/u3JnFx2t" target = "_blank"><img src="assets/gsoc_logo.png" alt="GSoC" height="40" /></a> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
+- <a href="https://jssuni.edu.in/JSSWeb/WebHome.aspx" target = "_blank"><img src="assets/jss_logo.png" alt="JSS" height="40" /></a> **Biomedical ML Intern 2025** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jimmy_unleashed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/littledrummerboi08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derrick-s-richard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derrickrds@gmail.com) 
