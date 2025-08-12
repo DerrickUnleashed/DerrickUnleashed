@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi — I'm Derrick 👋
 Dual-degree Computer Science and Engineering Core & Data Science student at 
-<p align="center">
-  <img src="assets/vit_logo.png" alt="VIT Chennai" height="40" />
+<p margin-left>
+  <img src="assets/vit_logo.png" alt="VIT Chennai" height="60" />
   &nbsp;VIT Chennai and&nbsp;
-  <img src="assets/iitm_logo.png" alt="IIT Madras" height="40" /> IIT Madras
+  <img src="assets/iitm_logo.png" alt="IIT Madras" height="60" /> IIT Madras
 </p>
 
 I build production-ready ML systems, computer-vision tools, and full-stack apps.  
