@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi — I'm Derrick 👋<br><br>Dual-degree CS & Data Science student (VIT Chennai × IIT Madras) who builds production-ready ML systems, computer-vision tools, and full-stack apps. I love turning complex data (images, genomes, finance) into practical pipelines and clean interfaces.<br><br>Notable work<br>- Google Summer of Code 2025 — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  <br>- Biomedical ML — early-detection pipelines for DMD/DCM (genomic + clinical data).  <br>- Full-stack & systems — MERN dashboards, WebSocket multiplayer, and scalable tooling.
+Hi — I'm Derrick 👋
+Dual-degree CS & Data Science student  
+<img src="assets/vit_logo.png" alt="VIT Chennai" height="20" /> VIT Chennai ×  
+<img src="assets/iitm_logo.png" alt="IIT Madras" height="20" /> IIT Madras  
+
+I build production-ready ML systems, computer-vision tools, and full-stack apps.  
+I love turning complex data (images, genomes, finance) into practical pipelines and clean interfaces.
+
+## 🏆 Notable work
+- <img src="assets/gsoc_logo.svg" alt="GSoC" height="20" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
+- 🧬 **Biomedical ML** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
+- 💻 **Full-stack & systems** — MERN dashboards, WebSocket multiplayer, and scalable tooling.
 
 
 ## 🌐 Socials:
