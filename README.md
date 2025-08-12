@@ -2,7 +2,7 @@
 Hi — I'm Derrick 👋
 Dual-degree Computer Science and Engineering Core & Data Science student at 
 <p align="center">
-  <a href="https://chennai.vit.ac.in/" target = "_blank"><img src="assets/vit_logo.png" alt="VIT Chennai" height="70" /></a>          
+  <a href="https://chennai.vit.ac.in/" target = "_blank"><img src="assets/vit_logo.png" alt="VIT Chennai" height="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;       
   <a href="https://ds.study.iitm.ac.in/student/23F2001426" target = "_blank"><img src="assets/iitm_logo.png" alt="IIT Madras" height="70" /></a>
 </p>
 
