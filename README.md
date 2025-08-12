@@ -4,6 +4,7 @@ Dual-degree CS & Data Science student at <img src="assets/vit_logo.png" alt="VIT
 
 I build production-ready ML systems, computer-vision tools, and full-stack apps.  
 I love turning complex data (images, genomes, finance) into practical pipelines and clean interfaces.
+I work on Full-stack & systems with MERN dashboards, WebSocket multiplayer, and scalable tooling.
 
 ## 🏆 Experience
 - <img src="assets/gsoc_logo.png" alt="GSoC" height="40" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
