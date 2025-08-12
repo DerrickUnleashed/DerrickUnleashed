@@ -5,11 +5,9 @@ Dual-degree CS & Data Science student at <img src="assets/vit_logo.png" alt="VIT
 I build production-ready ML systems, computer-vision tools, and full-stack apps.  
 I love turning complex data (images, genomes, finance) into practical pipelines and clean interfaces.
 
-## 🏆 Notable work
+## 🏆 Experience
 - <img src="assets/gsoc_logo.png" alt="GSoC" height="40" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
 - <img src="assets/jss_logo.png" alt="JSS" height="40" /> **Biomedical ML Intern 2025** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
-- 💻 **Full-stack & systems** — MERN dashboards, WebSocket multiplayer, and scalable tooling.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jimmy_unleashed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/littledrummerboi08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derrick-s-richard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derrickrds@gmail.com) 
