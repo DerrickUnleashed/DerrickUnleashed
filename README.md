@@ -10,7 +10,7 @@ Hi — I'm Derrick 👋<br><br>Dual-degree CS & Data Science student (VIT Chenna
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DerrickUnleashed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DerrickUnleashed&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickUnleashed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count=100)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickUnleashed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DerrickUnleashed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
