@@ -6,7 +6,7 @@ I build production-ready ML systems, computer-vision tools, and full-stack apps.
 I love turning complex data (images, genomes, finance) into practical pipelines and clean interfaces.
 
 ## 🏆 Notable work
-- <img src="assets/gsoc_logo.svg" alt="GSoC" height="20" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
+- <img src="assets/gsoc_logo.png" alt="GSoC" height="40" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
 - 🧬 **Biomedical ML** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
 - 💻 **Full-stack & systems** — MERN dashboards, WebSocket multiplayer, and scalable tooling.
 
