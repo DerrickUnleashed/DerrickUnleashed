@@ -7,7 +7,7 @@ I love turning complex data (images, genomes, finance) into practical pipelines 
 
 ## 🏆 Notable work
 - <img src="assets/gsoc_logo.png" alt="GSoC" height="40" /> **Google Summer of Code 2025** — extending TorchVision for R (vision datasets, models, GPU/quantisation support).  
-- 🧬 **Biomedical ML** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
+- <img src="assets/jss_logo.png" alt="JSS" height="40" /> **Biomedical ML Intern 2025** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
 - 💻 **Full-stack & systems** — MERN dashboards, WebSocket multiplayer, and scalable tooling.
 
 
