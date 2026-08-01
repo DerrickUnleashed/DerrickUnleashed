@@ -12,7 +12,7 @@ I work on Full-stack & systems with MERN dashboards, WebSocket multiplayer, and 
 
 ## 🏆 Experience
 - <a href="https://summerofcode.withgoogle.com/programs/2025/projects/u3JnFx2t" target = "_blank"><img src="assets/gsoc_logo.png" alt="GSoC" height="40" /></a> **Google Summer of Code 2026** — C++ acceleration & modern architectures (YOLO, RT-DETR, SAM) for torchvision in R via Rcpp.  
-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7485678679310635010/" target = "_blank"><img src="assets/wells_logo.png" alt="Wells Fargo" height="40" /></a> **Technology Program Intern, Wells Fargo 2026** — Agentic AI pipelines with Spring Boot.  
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7485678679310635010/" target = "_blank"><img src="assets/wells_logo.jpeg" alt="Wells Fargo" height="40" /></a> **Technology Program Intern, Wells Fargo 2026** — Agentic AI pipelines with Spring Boot.  
 - <a href="https://summerofcode.withgoogle.com/programs/2025/projects/u3JnFx2t" target = "_blank"><img src="assets/gsoc_logo.png" alt="GSoC" height="40" /></a> **Google Summer of Code 2025** — extending TorchVision for R (dataset loaders, ViT/MobileNet v3/FaceNet models).  
 - <a href="https://jssuni.edu.in/JSSWeb/WebHome.aspx" target = "_blank"><img src="assets/jss_logo.png" alt="JSS" height="40" /></a> **Biomedical ML Intern 2025** — early-detection pipelines for DMD/DCM (genomic + clinical data).  
 
